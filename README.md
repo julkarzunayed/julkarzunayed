@@ -31,9 +31,9 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** curr
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername) (Replace with your profile)
-- 🐦 [Twitter](https://twitter.com/yourusername) (Replace with your handle)
-- 🌍 [Portfolio](#) (Add your website link)
+- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 🐦 [Twitter](https://twitter.com/yourusername)
+- <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/6d9a779b-85c7-4a82-ae6e-6211fa1688b8" /> [Portfolio](https://julkar-zunayed.netlify.app)
 
 ---
 
