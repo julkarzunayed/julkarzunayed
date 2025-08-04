@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** curr
 
 ---
 
-## 🌐 Connect With Me
+## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/71518fe5-730f-428f-9131-8bd884e04c4b" /> Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername)
 - 🐦 [Twitter](https://twitter.com/yourusername)
@@ -42,3 +42,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** curr
 "The only way to do great work is to love what you do." – Steve Jobs
 
 Let's build something amazing together! 🚀
+
+
+
