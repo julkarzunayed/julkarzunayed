@@ -14,22 +14,38 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** curr
 
 ## 🛠️ Technologies & Tools
 
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
-- **Styling**: CSS Frameworks (Bootstrap, Tailwind CSS)
-- **Version Control**: Git & GitHub
-- **Currently Exploring**: React.js, Node.js, Express.js, MongoDB
+<div>
+  <p align="center">
+    <a href="">
+      <img src="https://skillicons.dev/icons?i=react,vite,nextjs,js,tailwind,html,css" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="">
+      <img src="https://skillicons.dev/icons?i=git,firebase,vercel,netlify,github" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Current Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julkarzunayed&show_icons=true&theme=radical)
+<p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=julkarzunayed&theme=react&hide_border=false&border_color=FF1CF7" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=julkarzunayed&show_icons=true&theme=react&hide_border=true&include_all_commits=true" alt="Martin's GitHub Stats" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=julkarzunayed&theme=react&hide_border=true&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julkarzunayed&layout=compact&theme=radical)
 
 ---
 
-## <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/71518fe5-730f-428f-9131-8bd884e04c4b" /> Connect With Me
+## <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/71518fe5-730f-428f-9131-8bd884e04c4b" /> Get in tuch
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername)
 - 🐦 [Twitter](https://twitter.com/yourusername)
