@@ -44,7 +44,7 @@
 <p align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julkarzunayed&theme=react&hide_border=false&border_color=00F0FF&layout=compact" />
   <br/>
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=julkarzunayed&show_icons=true&theme=react&hide_border=false&border_color=00F0FF&include_all_commits=true&rank_icon=github" alt="Martin's GitHub Stats" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=julkarzunayed&show_icons=true&theme=react&hide_border=false&border_color=00F0FF&include_all_commits=true&rank_icon=github&bg_color=45,00242E,28002E" alt="Martin's GitHub Stats" />
   <br/>
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=julkarzunayed&theme=react&hide_border=true&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
