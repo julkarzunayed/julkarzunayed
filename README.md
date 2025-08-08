@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** curr
 
 ---
 
-## 🚀 About Me
+## <img width="30px" src="icons/bio.png" /> About Me
 
 - 🌱 **Currently Learning**: Expanding my skills in backend development, working with Node.js, Express.js, and databases.
 - 💡 **Goal**: To build scalable and efficient web applications.
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** curr
 
 ---
 
-## 🛠️ Technologies & Tools
+##  <img width="30px" src="icons/tools.png" /> Technologies that I often Explore
 
 <div>    
   <p align="center">
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** curr
 
 ---
 
-## 📊 Current Stats
+## <img width="30px" src="icons/coding.png" /> Current Stats
 
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=julkarzunayed&theme=react&hide_border=false&border_color=00F0FF" />
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** curr
 
 ---
 
-## <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/71518fe5-730f-428f-9131-8bd884e04c4b" /> Get in tuch
+## <img width="30" alt="image" src="icons/postBox.png" /> Get in Touch
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername)
 - 🐦 [Twitter](https://twitter.com/yourusername)
