@@ -1,18 +1,24 @@
-# Hi there, I'm Julkarnain Zunayed! 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=julkarzunayed.julkarzunayed" alt="Visitors: 9999" />
+<div >
+  <img  align="right" src="icons/Zunayed-github-banner.gif" alt="Visitors: 9999" />
+</div>
+<br/>
+<P>.</P>
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** currently learning and building projects with modern web technologies.
+<hr/>
 
----
 
-## <img width="30px" src="icons/bio.png" /> About Me
+<h3 align="center">
+  I am a full-stack developer specializing in the MERN stack. My core expertise is in frontend development, where I build modern, intuitive user interfaces. I also have a strong command of backend technologies, enabling me to build high-performance, secure, and scalable web applications.
+</h3>
 
-- 🌱 **Currently Learning**: Expanding my skills in backend development, working with Node.js, Express.js, and databases.
-- 💡 **Goal**: To build scalable and efficient web applications.
-- 🏆 **Focus**: Writing clean, maintainable, and performant code.
+<br/>
 
----
+<h2 align="center">
+  <img width="30px" src="icons/tools.png" /> Technologies that I often Explore
+</h2>
 
-##  <img width="30px" src="icons/tools.png" /> Technologies that I often Explore
+<br/>
 
 <div>    
   <p align="center">
@@ -26,9 +32,14 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** curr
   </p>
 </div>
 
----
+<br/>
 
-## <img width="30px" src="icons/coding.png" /> Current Stats
+
+<h2 align="center">
+  <img width="30px" src="icons/coding.png" /> Current Stats
+</h2>
+
+<br/>
 
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=julkarzunayed&theme=react&hide_border=false&border_color=00F0FF" />
@@ -37,15 +48,34 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** curr
 </p>
 
 
----
+<br/>
 
-## <img width="30" alt="image" src="icons/postBox.png" /> Get in Touch
+<h2 align="center">
+  <img width="30" alt="image" src="icons/postBox.png" /> Get in Touch
+</h2>
+
+<br/>
+
+<p align="center">
+  <a href="mailto:mdalimuzzaman437@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="icons/Facebook.png" />
+  </a>
+  <a href="(https://wa.me/+8801405742311/)">
+    <img src="icons/whatsapp.png" />
+  </a>
+</p>
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername)
 - 🐦 [Twitter](https://twitter.com/yourusername)
 - 🌐 [Portfolio](https://julkar-zunayed.netlify.app)
 
----
+<br/>
 
 ### ⚡ Fun Fact
 
