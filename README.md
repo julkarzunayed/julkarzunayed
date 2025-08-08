@@ -57,23 +57,24 @@
 <br/>
 
 <p align="center">
-  <a href="mailto:mdalimuzzaman437@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a target="_blank" href="mailto:julkarnainzunayed@gmail.com">
+    <img width="45" src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a target="_blank" href="https://linkedin.com/in/yourusername">
+    <img width="45" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="icons/Facebook.png" />
+  <a target="_blank" href="https://www.facebook.com/julkarzunayed">
+    <img width="45" src="icons/Facebook.png" />
   </a>
-  <a href="(https://wa.me/+8801405742311/)">
-    <img src="icons/whatsapp.png" />
+  <a target="_blank" href="https://wa.me/+8801405742311/">
+    <img width="45" src="icons/whatsapp.png" />
+  </a>
+  <a target="_blank" href="https://julkar-zunayed.netlify.app">
+    <img width="45" src="icons/web.png" />
   </a>
 </p>
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 🐦 [Twitter](https://twitter.com/yourusername)
-- 🌐 [Portfolio](https://julkar-zunayed.netlify.app)
+
 
 <br/>
 
