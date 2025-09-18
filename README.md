@@ -62,7 +62,7 @@
   <a target="_blank" href="mailto:julkarnainzunayed@gmail.com">
     <img width="45" src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a target="_blank" href="https://linkedin.com/in/yourusername">
+  <a target="_blank" href="https://www.linkedin.com/in/julkarzunayed/">
     <img width="45" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a target="_blank" href="https://www.facebook.com/julkarzunayed">
